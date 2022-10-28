@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> **Note**: Sorry, this website is under contruction.
+
 <!--
 
 **Here are some ideas to get you started:**
