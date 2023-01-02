@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Welcome to the **MSc365** website.
+Welcome to the **MSC365** website.
 
 > **Note**: Sorry, this website is under construction.
 
 <!--
-Cloud Development and Team Collaboration on Microsoft 365, Azure, Power Platform, Azure DevOps, and GitHub. 
+Cloud Development and Team Collaboration on Microsoft 365, Azure, Power Platform, and Azure DevOps. 
 -->
 
 <!--
